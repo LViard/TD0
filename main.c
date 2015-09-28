@@ -1,7 +1,7 @@
 #include<stdio>
 
 int main(int argc, char *argv[]){
-	printf("Hello, world !");
+	printf("Hello, Corentin !");
 	
 	return 0;
 }
